@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DefaultGEProperties><OneGEProPerties ObjType="3" PartType="0"><PLCProperties Pripority="" Description=""><InPutData Pripority="1" AddrType="254" AddrTypeName="LB" CodeType="0" WordNum="1" PLCAddr="0" MaskValType="0" bUseAddrTag="0" PLCID="65534"/><OutPutData Pripority="1" AddrType="50" AddrTypeName="CIO_bit" CodeType="0" WordNum="1" PLCAddr="0.03" MaskValType="0" bUseAddrTag="0" PLCID="65534"/></PLCProperties><ShapeProperties bUseVG="0" VGName="" BUseBG="1" BGName="lamp-02.bg"/></OneGEProPerties></DefaultGEProperties>
